@@ -1,0 +1,15 @@
+{
+    "System.IO.FileSystem.Watcher": "4.0.0",
+    "runtime.native.System.Net.Http": "4.3.0",
+    "Microsoft.AspNetCore.Server.Kestrel": "2.1.0",
+    "Microsoft.Extensions.Logging.Console": "2.1.0",
+  },
+  "frameworks": {
+    "NETCoreApp1.0": {
+      "imports": "portable-net452"
+    }
+  },
+  "runtimes": {
+    "ubuntu.16.04-x64": { },
+  }
+}
